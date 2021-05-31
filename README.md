@@ -2,7 +2,7 @@
 
 ## Blog with Laravel Framework
 
-*command to run list**
+*command to run**
 
     composer install
     php artisan migrate
