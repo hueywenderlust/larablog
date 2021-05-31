@@ -1,5 +1,10 @@
 
 
-## License
+## Blog with Laravel Framework
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+*command to run list**
+
+    composer install
+    php artisan migrate
+    php artisan serve 
+    
